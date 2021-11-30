@@ -1,5 +1,5 @@
 <template>
-  <h1>sd</h1>
+  <h1>Smart Energy Conservation</h1>
 </template>
 
 <script>
